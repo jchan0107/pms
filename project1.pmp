@@ -99,7 +99,7 @@
   <FieldPhrase LanguageId="en-US" TableName="tbl_employee" FieldName="staff_Id" FieldAttribute="FldCaption" Phrase="staff Id" />
   <FieldPhrase LanguageId="en-US" TableName="tbl_employee" FieldName="job" FieldAttribute="FldCaption" Phrase="job" />
   <FieldPhrase LanguageId="en-US" TableName="tbl_employee" FieldName="lname" FieldAttribute="FldCaption" Phrase="lnamesss" />
-  <FieldPhrase LanguageId="en-US" TableName="tbl_employee" FieldName="fname" FieldAttribute="FldCaption" Phrase="fname" />
+  <FieldPhrase LanguageId="en-US" TableName="tbl_employee" FieldName="fname" FieldAttribute="FldCaption" Phrase="fnamesssss" />
   <FieldPhrase LanguageId="en-US" TableName="tbl_employee" FieldName="mi" FieldAttribute="FldCaption" Phrase="mi" />
   <FieldPhrase LanguageId="en-US" TableName="tbl_employee" FieldName="Dob" FieldAttribute="FldCaption" Phrase="Dob" />
   <FieldPhrase LanguageId="en-US" TableName="tbl_employee" FieldName="address" FieldAttribute="FldCaption" Phrase="address" />
